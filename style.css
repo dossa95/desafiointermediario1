@@ -1,0 +1,59 @@
+h1 {
+  font-family: "Dosis", sans-serif;
+  text-align: center;
+  font-weight: 400;
+  color: #3f3d56;
+  line-height: 40 45px;
+}
+
+h1 span {
+  color: #ee24ff;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+div,
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  margin: auto;
+  line-height: 45px;
+  color: #828282;
+}
+
+p {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  line-height: 22px;
+}
+
+#barrinha {
+  height: 0px;
+  width: 391px;
+  margin: 0 auto 16px;
+  border: 1px #eceff2 solid;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  line-height: 0;
+  font-weight: bold;
+  color: #3f3d56;
+  margin-left: 42px;
+}
+
+#worldinhands {
+  padding-top: 3%;
+  width: 350px;
+}
+
+#barra {
+  bottom: 0;
+  width: 100%;
+}
